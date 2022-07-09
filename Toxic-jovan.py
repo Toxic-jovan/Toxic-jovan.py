@@ -428,7 +428,7 @@ class Main:
 		print(" [4] 2009-10 Cloning")
 		print(" [5] 2011-14 Cloning")
 		print(" [E] Exit Programming\n")
-		Jovan Ahmed =input(" Choose : ")
+		 =input(" Choose : ")
 		if Jovan Ahmed in ["1", "01"]:
 			File()
 		if Jovan Ahmed in ["2", "02"]:
