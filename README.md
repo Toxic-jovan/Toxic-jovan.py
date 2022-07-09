@@ -28,7 +28,7 @@
 
  
 
-𒁂 python Toxic🌿.py.py
+𒁂 python Toxic🌿.py
 
 
 
